@@ -35,6 +35,7 @@ SimulatedPlayer* simulatedPlayer;
         //as these will be in order, if we want someone to get buffs for sure from the others, just put them last. but it will probably work anyway cause
         for (SimulatedPlayer* sp in group)
         {
+            //ask SP to give us the next action instead
             Action* action = sp.baseRotation[sp.baseRotationCurrentIndex];
             if ([sp isActionReady: action forTime: timer])
             {
