@@ -1,0 +1,188 @@
+from https://ffxiv.gamerescape.com/wiki/White_Mage
+
+Acquisition
+1 	Pulse of Life Icon.png	Pulse of Life
+(Limit Break Level 3)	Restores 100% HP/MP of all nearby party members, including ones KO'd.	White Mage Icon 3.png
+1 	Stone Icon.png	Stone
+(Spell)	Deals earth damage with a potency of 140.
+Conjurer Icon 3.png
+2 	Cure Icon.png	Cure
+(Spell)	Restores target's HP.
+Cure Potency: 450
+Additional Effect: 15% chance next Cure II will cost no MP.
+Duration: 15s
+Additional Effect: 50% chance restoring HP of self or a party member while in combat will add a Lily to your Healing Gauge.
+
+Conjurer Icon 3.png
+4 	Aero Icon.png	Aero
+(Spell)	Deals wind damage with a potency of 50.
+Additional Effect: Wind damage over time
+Potency: 30
+Duration: 18s
+Conjurer Icon 3.png
+10 	Medica Icon.png	Medica
+(Spell)	Restores own HP and the HP of all nearby party members.
+Cure Potency: 300
+Conjurer Icon 3.png
+12 	Raise Icon.png	Raise
+(Spell)	Resurrects target to a weakened state.	Conjurer Icon 3.png
+15 Quest Icon.png	Fluid Aura Icon.png	Fluid Aura
+(Ability)	Deals a 15-yalm knockback.
+Additional Effect: Bind
+Duration: 6s
+Conjurer Icon 3.png
+18 	Stone II Icon.png	Stone II
+(Spell)	Deals earth damage with a potency of 200.	Conjurer Icon 3.png
+26 	Repose Icon.png	Repose
+(Spell)	Inflicts target with Sleep.
+Duration: 30s (PvP 8s)
+Cancels auto-attack upon execution.
+Conjurer Icon 3.png
+30 Quest Icon.png	Presence of Mind Icon.png	Presence of Mind
+(Ability)	Reduces weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay by 20%.	White Mage Icon 3.png
+30 Quest Icon.png	Cure II Icon.png	Cure II
+(Spell)	Restores target's HP.
+Cure Potency: 700
+Additional Effect: 100% chance restoring HP of self or a party member while in combat will add a Lily to your Healing Gauge.
+
+Conjurer Icon 3.png
+35 Quest Icon.png	Regen Icon.png	Regen
+(Spell)	Grants healing over time effect to target.
+Cure Potency: 150 (PvP 1000)
+Duration: 21s (PvP 15s)
+White Mage Icon 3.png
+40 Quest Icon.png	Cure III Icon.png	Cure III
+(Spell)	Restores HP of target and all party members nearby target.
+Cure Potency: 550
+White Mage Icon 3.png
+45 Quest Icon.png	Holy Icon.png	Holy
+(Spell)	Deals unaspected damage to all nearby enemies with a potency of 200 for the first enemy, 10% less for the second, 20% less for the third, 30% less for the fourth, 40% less for the fifth, and 50% less for all remaining enemies.
+Additional Effect: Stun
+Duration: 4s
+White Mage Icon 3.png
+46 	Aero II Icon.png	Aero II
+(Spell)	Deals wind damage with a potency of 50.
+Additional Effect: Wind damage over time
+Potency: 50
+Duration: 18s
+Conjurer Icon 3.png
+50 	Medica II Icon.png	Medica II
+(Spell)	Restores own HP and the HP of all nearby party members.
+Cure Potency: 200
+Additional Effect: Regen
+Cure Potency: 50
+Duration: 30s
+Conjurer Icon 3.png
+50 Quest Icon.png	Benediction Icon.png	Benediction
+(Ability)	Restores all of a target's HP.	White Mage Icon 3.png
+52 Quest Icon.png	Asylum Icon.png	Asylum
+(Ability)	Envelops a designated area in a veil of succor, healing any party members who enter.
+Cure Potency: 100
+Duration: 24s
+Cannot be used with any other area-creating actions.
+White Mage Icon 3.png
+54 Quest Icon.png	Stone III Icon.png	Stone III
+(Spell)	Deals earth damage with a potency of 210.	White Mage Icon 3.png
+56 Quest Icon.png	Assize Icon.png	Assize
+(Ability)	Deals unaspected damage to all nearby enemies with a potency of 300. Additional Effect: Restores own HP and the HP of nearby party members
+Cure Potency: 300
+Additional Effect: Restores 10% of own MP
+
+White Mage Icon 3.png
+58 Quest Icon.png	Aero III Icon.png	Aero III
+(Spell)	Deals wind damage with a potency of 50 to target and all enemies nearby it.
+Additional Effect: Wind damage over time
+Potency: 40
+Duration: 24s
+White Mage Icon 3.png
+60 Quest Icon.png	Tetragrammaton Icon.png	Tetragrammaton
+(Ability)	Restores target's HP.
+Cure Potency: 700
+White Mage Icon 3.png
+62 	Thin Air Icon.png	Thin Air
+(Ability)	Reduces MP cost of all spells to 0.
+Duration: 12s
+White Mage Icon 3.png
+64 	Stone IV Icon.png	Stone IV
+(Spell)	Deals Earth damage with a potency of 250.	White Mage Icon 3.png
+66 	Divine Benison Icon.png	Divine Benison
+(Ability)	Creates a barrier around self or target that absorbs damage totaling 15% of target's maximum HP.
+Can only be executed with at least one Lily on your Healing Gauge.
+Duration: 15s
+All Lilies are lost upon execution.
+White Mage Icon 3.png
+70 Quest Icon.png	Plenary Indulgence Icon.png	Plenary Indulgence
+(Ability)	Restores HP of all nearby party members. Potency varies with current Confession stack.
+1 Confession: 150
+2 Confessions: 300
+3 Confessions: 450
+Confession is granted to a player when their HP is restored via Medica, Medica II, or Cure III.
+Confession Duration: 10s
+Can only be cast when at least one party member has a Confession granted by you.
+
+White Mage Icon 3.png
+Role Actions
+Divider3.png
+Level	Name	 	Description	Acquisition
+8 	Cleric Stance Icon.png	Cleric Stance
+(Ability)	Increases potency of attack magic by 5%.
+Duration: 15s
+Healerroleicon.png
+12 	Break Icon.png	Break
+(Spell)	Deals unaspected damage with a potency of 50. Additional Effect: Heavy +40%
+Duration: 20s
+Healerroleicon.png
+16 	Protect Icon.png	Protect
+(Spell)	Increases the physical and magic defense of target and all party members nearby target.
+Duration: 30m
+Healerroleicon.png
+20 	Esuna Icon.png	Esuna
+(Spell)	Removes a single detrimental effect from target.	Healerroleicon.png
+24 	Lucid Dreaming Icon.png	Lucid Dreaming
+(Ability)	Reduces enmity by half. Additional Effect: Refresh
+Refresh Potency: 80
+Duration: 21s
+Healerroleicon.png
+32 	Swiftcast Icon.png	Swiftcast
+(Ability)	Next spell is cast immediately.
+Duration: 10s
+Healerroleicon.png
+36 	Eye for an Eye Icon.png	Eye for an Eye
+(Ability)	Erects a magicked barrier around a single party member or pet.
+Duration: 20s
+Barrier Effect: 20% chance that when barrier is struck, the striker will deal 10% less damage.
+Duration: 10s
+Healerroleicon.png
+40 	Largesse Icon.png	Largesse
+(Ability)	Increases healing magic potency by 20%.
+Duration: 20s
+Healerroleicon.png
+44 	Surecast Icon.png	Surecast
+(Ability)	Next spell is cast without interruption.
+Additional Effect: Nullifies knockback and draw-in effects
+
+Duration: 10s
+Healerroleicon.png
+48 	Rescue Icon.png	Rescue
+(Ability)	Instantly draw target party member to your side. Cannot be used outside of combat or when target is suffering from certain enfeeblements.	Healerroleicon.png
+Traits
+Divider3.png
+Level	Name	Description
+18	Stone Mastery Icon.png Stone Mastery	Upgrades Stone to Stone II.
+20	Enhanced Mind Icon.png Enhanced Mind	Increases mind by 8.
+20	Maim and Mend Icon.png Maim and Mend	Increases base action damage and HP restoration by 10%.
+32	Freecure Icon.png Freecure	Grants a 15% chance that after casting Cure, the MP cost for your next Cure II will be 0.
+Duration: 15s
+
+40	Enhanced Mind II Icon.png Enhanced Mind II	Increases mind by 16.
+40	Maim and Mend II Icon.png Maim and Mend II	Increases base action damage and HP restoration by 30%.
+46	Aero Mastery Icon.png Aero Mastery	Upgrades Aero to Aero II.
+52	Secret of the Lily Icon.png Secret of the Lily	Grants a 50% or 100% chance that a Lily is added to your Healing Gauge upon the execution of Cure or Cure II on self or a party member while in combat. Lilies will lower the recast time for Asylum, Assize, Divine Benison, or Tetragrammaton by a percentage corresponding to the number of Lilies stacked at time of action execution (at which time the Lilies are removed).
+1 Lily: 4%
+2 Lilies: 10%
+3 Lilies: 20%
+
+54	Stone Mastery II Icon.png Stone Mastery II	Upgrades Stone II to Stone III.
+60	Enhanced Mind III Icon.png Enhanced Mind III	Increases mind by 24.
+64	Stone Mastery III Icon.png Stone Mastery III	Upgrades Stone III to Stone IV.
+68	Secret of the Lily II Icon.png Secret of the Lily II	Grants a 20% chance that Asylum or Assize recast time is reduced by 5 seconds upon healing critical HP with Cure or Cure II.
