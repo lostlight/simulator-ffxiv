@@ -17,8 +17,9 @@
 
 @property (nonatomic) int nextGCDActionTime; //ms
 @property (nonatomic) int nextOGCDActionTime;
+@property (nonatomic, weak) PlayerDelegate * delegate;
 
-
+- (Action *) nextAction;
 - (BOOL) isActionReady: (Action *) action forTime: (int) time;
 - (int) damageFor: (Action *)action onTarget:(Target *) target atTime: (int) time;
 

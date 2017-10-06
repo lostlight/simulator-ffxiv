@@ -62,11 +62,22 @@
     _potencyDamageDone += action.potency;
 
     //add it to the action history too
-    NSString *s = [NSString stringWithFormat:@"Time: %d Action: %@ Damage: %d", time, action.name, _damageDone];
+    NSString *s = [NSString stringWithFormat:@"Time: %d Action: %@ Damage: %d Potency: %d", time, action.name, _damageDone, _potencyDamageDone];
     [_actionHistory addObject: @{@"action": action, @"log": s}];
 
     _damageDone += damage;
     return damage;
+}
+
+- (Action *) nextAction
+{
+	if (self.playerDelegate)
+		return [playerDelegate nextAction];
+	else
+	{
+		if (baseRotationCurrentIndex >= baseRotation.Length) baseRotationCurrentIndex = baseRotationCurrentIndex % baseRotation.Length;
+		return baseRotation[baseRotationCurrentIndex];
+	}
 }
 
 @end

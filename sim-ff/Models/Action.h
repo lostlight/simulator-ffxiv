@@ -8,15 +8,39 @@
 
 #import <Foundation/Foundation.h>
 
+typedef NS_ENUM(NSInteger, ActionType) {
+  Abiltiy,
+  Spell,
+  Weaponskill
+};
+
+typedef NS_ENUM(NSInteger, Aspect) {
+	Unaspected,
+	Earth,
+	Wind
+};
+
+typedef NS_ENUM(NSInteger, Job) {
+	WHM,
+	AST,
+	SAM,
+	BRD,
+	MNK
+};
+
 @interface Action : NSObject
 
 @property (nonatomic) BOOL isOffGCD; //yes for Abilities
 @property (nonatomic) BOOL hasDamageOverTime;
+@property (nonatomic) ActionType type;
+@property (nonatomic) Job jobRestiction;
+@property (nonatomic) Aspect aspect;
 
 @property (nonatomic) int potency;
 @property (nonatomic) int comboPotency; //potency in case combo was done
 
 @property (nonatomic) int damageOverTimePotencyPerTick;
+@property (nonatomic) int damageOverTimeDuration;
 
 //resource cost
 @property (nonatomic) int mpCost;
@@ -30,6 +54,7 @@
 //combo
 @property (nonatomic) NSString* prequisiteComboActionName; //OffGCD will not break combos right? //keeping this string for easier debugging for now at least
 @property (nonatomic) NSString* name;
-@property (nonatomic) NSString* jobRestiction;
+
 
 @end
+

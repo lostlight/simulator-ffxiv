@@ -19,18 +19,18 @@
 
 @property (nonatomic) NSString* job;
 
-+(Player *) loadWhiteMage;
-+(Player *) loadAstrologian;
-+(Player *) loadScholar;
-+(Player *) loadMonk;
-+(Player *) loadMSamurai;
-+(Player *) loadMNinja;
-+(Player *) loadBard;
-+(Player *) loadMachinist;
-+(Player *) loadBlackMage;
-+(Player *) loadRedMage;
-+(Player *) loadPaladin;
-+(Player *) loadWarrior;
-+(Player *) loadDarkKnight;
++(Player *) newWhiteMage;
++(Player *) newAstrologian;
++(Player *) newScholar;
++(Player *) newMonk;
++(Player *) newMSamurai;
++(Player *) newMNinja;
++(Player *) newBard;
++(Player *) newMachinist;
++(Player *) newBlackMage;
++(Player *) newRedMage;
++(Player *) newPaladin;
++(Player *) newWarrior;
++(Player *) newDarkKnight;
 
 @end
